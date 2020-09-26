@@ -10,7 +10,7 @@ TotemCrudBack is an example project of a crud build in Java.
 - MySql Connector
 - MVC
 - JPA
--Lombok
+- Lombok
 
 ## 2. Build
 
